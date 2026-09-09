@@ -26,12 +26,13 @@
 
 ## About Me
 
-I'm an **AI Full-Stack Engineer** who builds end-to-end intelligent products — from sleek frontends to scalable backends with LLM-powered cores. I specialize in **agentic AI systems**, **RAG pipelines**, and **multi-agent architectures** that solve real-world problems.
+I'm an **AI Full-Stack Engineer** with strong experience building and deploying **AI products** from the ground up. I work across **MERN & MEAN stacks** and specialize in **agentic AI systems**, **RAG pipelines**, and **multi-agent architectures** that solve real-world problems.
 
 - 🤖 Building **Multi-Agent systems** with LangGraph & MCP Servers
 - 🔍 Designing **RAG pipelines** with Vector DBs for accurate AI retrieval
 - ☁️ Deploying production AI apps on **AWS & Azure**
-- 🌐 Full-stack across **React, Python, Node.js, and PostgreSQL**
+- 🌐 Full-stack expert in **MERN (MongoDB, Express, React, Node.js)** and **MEAN (MongoDB, Express, Angular, Node.js)**
+- 🚀 Strong experience taking AI products from **concept to production**
 - 💬 Ask me about **LangGraph, RAG, MCP, LLMs, or anything AI + Full-Stack**
 - 📫 Reach me at **singireddyhari143@gmail.com**
 
@@ -42,9 +43,9 @@ I'm an **AI Full-Stack Engineer** who builds end-to-end intelligent products —
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**
 
@@ -75,13 +76,6 @@ I'm an **AI Full-Stack Engineer** who builds end-to-end intelligent products —
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -90,8 +84,8 @@ I'm an **AI Full-Stack Engineer** who builds end-to-end intelligent products —
 ```text
 🧠  Multi-Agent Systems    ████████████████████  LangGraph · CrewAI · MCP
 🔍  RAG Pipelines          ████████████████████  Vector DBs · Embeddings · Retrieval
-🌐  Full-Stack Apps        ████████████████████  React · FastAPI · Node.js
-☁️  Cloud Deployments      ████████████████████  AWS · Azure · Docker
+🌐  MERN / MEAN Stack      ████████████████████  React · Angular · Node.js · Express
+🚀  AI Product Deployment  ████████████████████  AWS · Azure · Docker
 ```
 
 ---
