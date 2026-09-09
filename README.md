@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="mailto:singireddyhari143@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=singireddyhari143@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
