@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Srihari Singireddy 👋</h1>
 
-<h3 align="center">AI Full-Stack Engineer · LLMs · Multi-Agent Systems · RAG · MCP</h3>
+<h3 align="center">AI Full-Stack Engineer · Generative AI · Agentic AI · RAG · Multi-Agent Systems · MCP</h3>
+
+<p align="center">📍 Hyderabad, India &nbsp;|&nbsp; 4 Years of Experience</p>
 
 <br/>
 
@@ -26,52 +28,53 @@
 
 ## About Me
 
-I'm an **AI Full-Stack Engineer** with strong experience building and deploying **AI products** from the ground up. I work across **MERN & MEAN stacks** and specialize in **agentic AI systems**, **RAG pipelines**, and **multi-agent architectures** that solve real-world problems.
+I'm an **AI Full-Stack Engineer** with **4 years of experience** specializing in **Generative AI, Agentic AI, RAG, Multi-Agent Systems, and Model Context Protocol (MCP)**. I architect end-to-end AI platforms using Python, FastAPI, LangChain, LangGraph, LlamaIndex, and React.js — building scalable, enterprise-ready AI solutions with expertise in **LLMOps, evaluation frameworks, tool calling, and workflow orchestration**.
 
-- 🤖 Building **Multi-Agent systems** with LangGraph & MCP Servers
-- 🔍 Designing **RAG pipelines** with Vector DBs for accurate AI retrieval
-- ☁️ Deploying production AI apps on **AWS & Azure**
-- 🌐 Full-stack expert in **MERN (MongoDB, Express, React, Node.js)** and **MEAN (MongoDB, Express, Angular, Node.js)**
-- 🚀 Strong experience taking AI products from **concept to production**
-- 💬 Ask me about **LangGraph, RAG, MCP, LLMs, or anything AI + Full-Stack**
+- 🤖 Architecting **Multi-Agent systems** with LangGraph, LiteLLM & MCP
+- 🔍 Designing **RAG pipelines** with Hybrid Search, reranking & hallucination evaluation
+- 🛠️ Building **Enterprise MCP Servers** exposing business APIs as natural language tools
+- ☁️ Deploying production AI products on **AWS & Azure**
+- 🌐 Full-stack across **MERN** (MongoDB, Express, React, Node.js) & **MEAN** (MongoDB, Express, Angular, Node.js)
 - 📫 Reach me at **singireddyhari143@gmail.com**
 
 ---
 
 ## Tech Stack
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**AI / LLMs & Agents**
+**AI / LLM Frameworks**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Server-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-6A0DAD?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B35?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F7A800?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-CC785C?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6A0DAD?style=for-the-badge&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0078D4?style=for-the-badge&logoColor=white)
 
-**Vector Databases**
+**Databases**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-FFBE00?style=for-the-badge&logoColor=black)
 
-**Cloud & Infrastructure**
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -82,10 +85,11 @@ I'm an **AI Full-Stack Engineer** with strong experience building and deploying 
 ## What I Build
 
 ```text
-🧠  Multi-Agent Systems    ████████████████████  LangGraph · CrewAI · MCP
-🔍  RAG Pipelines          ████████████████████  Vector DBs · Embeddings · Retrieval
-🌐  MERN / MEAN Stack      ████████████████████  React · Angular · Node.js · Express
-🚀  AI Product Deployment  ████████████████████  AWS · Azure · Docker
+🤖  Multi-Agent Systems    ████████████████████  LangGraph · LiteLLM · MCP · HITL Workflows
+🔍  RAG Pipelines          ████████████████████  Hybrid Search · Reranking · Hallucination Eval
+🛠️  MCP Servers            ████████████████████  Natural Language APIs · BYOK · Audit Logging
+🌐  MERN / MEAN Stack      ████████████████████  React · Angular · Node.js · FastAPI
+☁️  AI Product Deployment  ████████████████████  AWS · Azure · Docker · CI/CD
 ```
 
 ---
